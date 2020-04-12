@@ -7,6 +7,11 @@ function MyComponent() {
     return (
         <div>
             hello world from my component
+
+            alskdfj
+
+
+            alsdkfjlskdf
         </div>
     );
 }
